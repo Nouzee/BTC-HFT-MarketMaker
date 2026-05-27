@@ -1,0 +1,16 @@
+# Python
+__pycache__/
+*.pyc
+*.nbc
+*.nbi
+
+# Data
+data/*.parquet
+data/*.csv
+
+# Output
+results/*.txt
+
+# System
+.DS_Store
+Thumbs.db
